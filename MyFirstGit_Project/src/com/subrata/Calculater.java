@@ -1,6 +1,6 @@
 package com.subrata;
 
-// calculater class
+// Calculator class
 public class Calculater {
 	
 	public int add(int i, int j)
